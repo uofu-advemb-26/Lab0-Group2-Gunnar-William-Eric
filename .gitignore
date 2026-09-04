@@ -23,3 +23,4 @@ pioasm
 pioasm-install
 src
 test
+.vscode/
