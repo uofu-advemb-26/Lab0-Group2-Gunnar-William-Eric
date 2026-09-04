@@ -1,3 +1,7 @@
+Group 2 for Lab 0
+Made the light blink
+
+
 # Renode setup
 The Raspberry Pico needs configuration files for Renode to work properly.
 
