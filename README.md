@@ -1,6 +1,6 @@
 Group 2 for Lab 0
 Made the light blink
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/uofu-advemb-26/Lab0-Group2-Gunnar-William-Eric/actions/workflows/main.yml/badge.svg)
 
 # Renode setup
 The Raspberry Pico needs configuration files for Renode to work properly.
